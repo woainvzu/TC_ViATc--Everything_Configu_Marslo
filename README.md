@@ -5,8 +5,8 @@ The configuration about Total Comand (ViATc) and Everything
 
 # Total Command (+ViATc):
 ## File Location:
-    - Copy the foler **GHISLER** from **Roaming** to `%APPDATA%`
-    - Copy the files under the foler **totalcmd** to the TC installation folder (C:\Program Files\totalcmd)
+- Copy the foler **GHISLER** from **Roaming** to `%APPDATA%`
+- Copy the files under the foler **totalcmd** to the TC installation folder (C:\Program Files\totalcmd)
 
 ## Customized Shortcuts:
 - **e**: Edit file
@@ -21,12 +21,14 @@ The configuration about Total Comand (ViATc) and Everything
 
 # Everything:
 ## File localtion:
-    - Copy the folder **Everything** under **Roaming** to `%APPDATA%`
-    - Copy the **Everything.ini** under foler **Everything** to everything installation folder (C:\Program Files\Everything)
+- Copy the folder **Everything** under **Roaming** to `%APPDATA%`
+- Copy the **Everything.ini** under foler **Everything** to everything installation folder (C:\Program Files\Everything)
 ## Customized Shortcuts:
-    - **Ctrl + a**: trigger
+- **Ctrl + a**: trigger
 
 
 # Screenshots:
 ## Total Command
+![VIATC_Marslo](https://github.com/woainvzu/TC_ViATc--Everything_Configu_Marslo/blob/master/Images/Total_Command.png?raw=true)
 ## Everything
+![Everything_Marslo](https://github.com/woainvzu/TC_ViATc--Everything_Configu_Marslo/blob/master/Images/Everything.png?raw=true)
