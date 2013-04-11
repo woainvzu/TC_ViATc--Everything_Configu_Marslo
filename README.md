@@ -25,7 +25,7 @@ The configuration about Total Comand (ViATc) and Everything
 - Copy the **Everything.ini** under foler **Everything** to everything installation folder (C:\Program Files\Everything)
 
 ## Customized Shortcuts:
-- **Ctrl + a**: trigger
+- **Alt + a**: trigger
 
 
 # Screenshots:
